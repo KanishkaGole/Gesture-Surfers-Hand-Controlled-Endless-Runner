@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.git/
+.gitignore
+myenv/
+.env
+.venv
+.vscode/
+.idea/
+Kanishka_Subway_Surfers.zip
+README.md
+Dockerfile
+.dockerignore
