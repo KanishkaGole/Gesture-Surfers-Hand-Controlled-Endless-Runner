@@ -32,8 +32,8 @@ A Subway Surfers-style endless runner game controlled entirely by hand gestures 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/KanishkaGole/Kanishka_Subway_Surfers.git
-   cd Kanishka_Subway_Surfers
+   git clone https://github.com/KanishkaGole/Gesture-Surfers-Hand-Controlled-Endless-Runner.git
+   cd Gesture-Surfers-Hand-Controlled-Endless-Runner
    ```
 
 2. **Install dependencies**:
