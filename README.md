@@ -69,7 +69,7 @@ A Subway Surfers-style endless runner game controlled entirely by hand gestures 
 ## 📂 Folder Structure
 
 ```text
-Kanishka_Subway_Surfers/
+Gesture-Surfers-Hand-Controlled-Endless-Runner/
 ├── assets/          # Game sprites, sounds, and fonts
 ├── game/            # Core game logic (engine, player, obstacles)
 ├── utils/           # Constants and helper functions
@@ -83,6 +83,8 @@ Kanishka_Subway_Surfers/
 ## 🤝 Contributors
 
 - **Kanishka Gole** - [GitHub Profile](https://github.com/KanishkaGole)
+- **Aarya Dixit** - [GitHub Profile](https://github.com/Aarya-dixit)
+
 
 ## 📄 License
 
