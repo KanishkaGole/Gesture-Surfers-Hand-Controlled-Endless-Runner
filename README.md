@@ -82,34 +82,7 @@ Gesture-Surfers-Hand-Controlled-Endless-Runner/
 
 ## 👥 Contributors
 
-This project was developed as a collaborative team effort:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KanishkaGole">
-        <img src="https://github.com/KanishkaGole.png" width="100px;" alt="Kanishka Gole"/>
-        <br />
-        <sub><b>Kanishka Gole</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/KanishkaGole/AI-Gym-Trainer/commits?author=KanishkaGole" title="Code">💻</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Aarya-dixit">
-        <img src="https://github.com/Aarya-dixit.png" width="100px;" alt="Arya Dixit"/>
-        <br />
-        <sub><b>Arya Dixit</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/KanishkaGole/AI-Gym-Trainer/commits?author=Aarya-dixit" title="Code">💻</a>
-    </td>
-  </tr>
-</table>
-
 - **Kanishka Gole** - [GitHub Profile](https://github.com/KanishkaGole)
-- **Aarya Dixit** - [GitHub Profile](https://github.com/Aarya-dixit)
-
 
 ## 📄 License
 
